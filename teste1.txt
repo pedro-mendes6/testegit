@@ -1,4 +1,10 @@
 Esse é o primeiro arquivo base
 
+
 O Flib2 acha isso
+
+Mas o Flib 1 acha isso
+
+E ambos estão certos
+
 
