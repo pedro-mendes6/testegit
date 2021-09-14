@@ -9,3 +9,5 @@ E ambos estão certos
 
 Mas ambos estão errados 
 
+Mas e se eu fizer só alteração local sem postar no git???
+
